@@ -21,7 +21,7 @@ namespace Ticket
             foreach(var i in array)
             {
                 // проверяем  меньше ли число в маисве нашего  если true  записываем  его 
-                if(minNumber > i) minNumber = i;
+                if(minNumbe  > i) minNumber = i;
             }
         }
     }
