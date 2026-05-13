@@ -1,7 +1,7 @@
 using System;
 
 
-//билет 9
+//билет 10
 namespace Ticket
 {
     
