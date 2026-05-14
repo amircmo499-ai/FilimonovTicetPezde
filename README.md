@@ -59,6 +59,28 @@
 
 ### [билет 20](./Ticket/ticket20.md)
 
+### [билет 21](./Ticket/ticket21.md)
+
+### [билет 22](./Ticket/ticket22.md)
+
+### [билет 23](./Ticket/ticket23.md)
+
+### [билет 24](./Ticket/ticket24.md)
+
+### [билет 25](./Ticket/ticket25.md)
+
+### [билет 26](./Ticket/ticket26.md)
+
+### [билет 27](./Ticket/ticket27.md)
+
+### [билет 28](./Ticket/ticket28.md)
+
+### [билет 29](./Ticket/ticket29.md)
+
+### [билет 30](./Ticket/ticket30.md)
+
+
+
 
 
 
