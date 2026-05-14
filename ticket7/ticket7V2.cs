@@ -1,4 +1,4 @@
-namespace System;
+using System;
 
 //билет 7
 namespace Ticket

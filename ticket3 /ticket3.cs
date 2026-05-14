@@ -15,7 +15,7 @@ namespace Ticket
 
             //создаем переменую  типа int  для записи минимального элемента
             //записываем туда первый эле мент масива
-            int minNumber = array[1];
+            int minNumber = array[0];
 
             //перебираем масив  можно использовать любой другой цикл я выбрал foreach
             foreach(var i in array)
