@@ -11,6 +11,6 @@
 ## [билет 28V2](../ticket28/ticket28V2.cs)
 * Что такое  тип object
 * Что такое безопастное приведение типа с помощью ключевого слова as
-* Что такое конструкция if else [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#конструкцияifelse)
+* Что такое конструкция if else [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#конструкция-if-else)
 * Что такое  свойства
 * Что такое свойство Lenght
