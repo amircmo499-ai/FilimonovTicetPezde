@@ -8,13 +8,13 @@
 
 ---
 ### [билет 30 основной С# код](../ticket30/ticket30/MainWindow.xaml.cs)
-* Что такое  событие 
-* что такое  метод
-* желательно что делает  класс MessagBox  и метот Show
+* Что такое  событие [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#cобытие)
+* что такое  метод [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#15-методы)
+* желательно что делает  класс MessagBox  и метот Show [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#класс-вывода-в-wpf)
 
 ---
 ### [билет 30 код разметки XML](../ticket30/ticket30/MainWindow.xaml)
-* Что такое Xml
+* Что такое Xml [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#xml-xaml)
 
 
 
