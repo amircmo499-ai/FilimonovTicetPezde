@@ -3,7 +3,7 @@
 ## [билет 7](../ticket7/ticket7.cs)
 * Что такое TryParse [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#tryparseparse)
 * Что такое out [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#ключевые-слова)
-* Что такое конструкция Switch case
+* Что такое конструкция Switch case [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#switch-case)
 ---
 ## [билет 7V2](../ticket7/ticket7V2.cs)
 * Что такое TryParse [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#tryparseparse)
