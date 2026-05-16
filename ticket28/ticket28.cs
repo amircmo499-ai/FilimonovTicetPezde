@@ -19,7 +19,7 @@ namespace Ticket
             if(text == null)
                 Console.WriteLine("это не текст");
             else
-                Console.WriteLine(text.Length());
+                Console.WriteLine(text.Length);
             
                 
              

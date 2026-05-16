@@ -14,3 +14,12 @@
 * Что такое конструкция if else [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#конструкция-if-else)
 * Что такое  свойства [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#свойство)
 * Что такое свойство Lenght [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#полезные-свойстваметоды-масива)
+
+---
+## [билет 28V3](../ticket28/ticket28V3.cs)
+* Что такое  тип object [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#object)
+* Что такое безопастное приведение типа с помощью ключевого слова is  [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#безопастное-приведение)
+* Что такое конструкция if else [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#конструкция-if-else)
+* Что такое  свойства [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#свойство)
+* Что такое свойство Lenght [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#полезные-свойстваметоды-масива)
+* Что такое  Сишное (язык C) приведение типов [Узнать](/Ticket/CSharp_Tickets_Guide%20.md#не-безопастное-приведение)

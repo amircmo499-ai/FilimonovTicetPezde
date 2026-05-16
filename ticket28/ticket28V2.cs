@@ -16,7 +16,7 @@ namespace Ticket
             string text = data as string;
 
             //проверяем далась нам строка или нет
-            Console.WriteLine(text == null? "это не текст": text.Length());
+            Console.WriteLine(text == null? "это не текст": text.Length);
         }
        
         
